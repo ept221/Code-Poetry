@@ -7,15 +7,15 @@ now, heart, love, pain = 0, 0, 0, set()
 import ant
 
 if now in pain:
-	try:
-		(_ and open("you","r"))
-		heart
-		if you are(not False):
-			
-	finally:
-		love
+    try:
+        (_ and open("you","r"))
+        heart
+        if you are(not False):
+            
+    finally:
+        love
 else:
-	pass
+    pass
 ######################################
 ```
 Copyright © 2024 Ezra Thomas. All rights reserved.
