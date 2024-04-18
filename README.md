@@ -10,8 +10,6 @@ if now in pain:
     try:
         (_ and open("you","r"))
         heart
-        if you are(not False):
-            
     finally:
         love
 else:
