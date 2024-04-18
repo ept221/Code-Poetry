@@ -1,7 +1,7 @@
 # Code-Poetry
 
 ```Python
-now, heart, love = 3*[0]
+love, now, heart = 3*[0]
 ######################################
 # poem:
 import ant
