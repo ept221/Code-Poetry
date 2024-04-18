@@ -1,15 +1,15 @@
 # Code-Poetry
 
 ```Python
-now, heart, love, pain = 0, 0, 0, set()
+now, heart, love = 3*[0]
 ######################################
 # poem:
 import ant
 
-if now in pain:
+if now in ["pain"]:
     try:
         (_ and open("you","r"))
-        heart
+        heart     
     finally:
         love
 else:
